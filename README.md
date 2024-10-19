@@ -3,9 +3,9 @@
 FOMC_Sentiment_Project/<br>
 │<br>
 ├── data/                          # 存放原始数据和处理后的数据<br>
-│   ├── raw/                       # 原始数据（FOMC 会议记录）<br>
-│   ├── processed/                 # 预处理后的数据<br>
-│
+│    ├── raw/                       # 原始数据（FOMC 会议记录）<br>
+│    ├── processed/                 # 预处理后的数据<br>
+│<br>
 ├── notebooks/                     # Jupyter Notebooks 存放目录<br>
 │   ├── data_analysis.ipynb        # 数据探索和初步分析<br>
 │   └── sentiment_analysis.ipynb   # 情感分析实验<br>
